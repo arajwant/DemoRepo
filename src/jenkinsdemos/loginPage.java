@@ -1,14 +1,13 @@
 package jenkinsdemos;
+
 import org.testng.annotations.Test;
 
-public class DemoJenkinsJobs {
+public class loginPage {
 	
 	@Test
-	public void testJenkins() {
+	public void LoginPage() {
 		
-		
-		
-		System.out.println("  Welcome to Jenkins Demo World!  ");
+		System.out.println("  This is Login page  ");
 		System.out.println("  This is demo for Github  ");
 
 		
